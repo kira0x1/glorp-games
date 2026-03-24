@@ -3,8 +3,8 @@
     <ui:VisualElement style="flex-grow: 1; background-color: rgb(36, 36, 36);">
         <ui:GroupBox style="width: 35%; position: absolute; bottom: 20px; align-self: center;">
             <ui:Button text="Play" name="Button" class="menu-btn"/>
-            <ui:Button text="Settings"/>
-            <ui:Button text="Quit" name=""/>
+            <ui:Button text="Settings" class="menu-btn"/>
+            <ui:Button text="Quit" name="" class="menu-btn"/>
         </ui:GroupBox>
     </ui:VisualElement>
 </ui:UXML>
